@@ -44,15 +44,12 @@ A speech and diction analysis tool that utilizes multiple machine learning model
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xild076&show_icons=true&hide_title=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xild076&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xild076&theme=github_dark" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xild076&show_icons=true&hide_title=true&count_private=true&theme=github_dark" alt="GitHub Stats" style="width: 49%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xild076&layout=compact&theme=github_dark" alt="Top Languages" style="width: 49%; display: inline-block;" />
 </p>
 
 ---
