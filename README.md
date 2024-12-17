@@ -60,7 +60,7 @@ A speech and diction analysis tool that utilizes multiple machine learning model
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Xild076&theme=github-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xild076&theme=github-dark" alt="Contribution Graph" />
 </p>
 
 ---
