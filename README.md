@@ -1,13 +1,11 @@
 <h1 align="center">Welcome to My GitHub</h1>
 <p align="center">
-  I'm Harry Yin, a student at Leland High School with a strong focus on Natural Language Processing, Artificial Intelligence, and Machine Learning. My work combines a passion for technology with practical applications, such as news analysis, stock prediction, and speech processing.
+  I'm Harry Yin, a student at Leland High School with a focus on NLP and other general AI.
 </p>
 
 ---
 
-## Featured Projects
-
-Here are some of the key projects I’ve been working on:
+## Projects
 
 ### [ObjectiveNews](https://github.com/Xild076/ObjectiveNews)
 A project aimed at making news more objective by leveraging AI-driven analysis tools. It includes features for extracting, analyzing, and presenting unbiased news content.
@@ -22,14 +20,6 @@ This project focuses on predicting stock prices using advanced machine learning 
 
 - **Language**: Python  
 - **Key Features**: Time Series Analysis, Predictive Modeling  
-
----
-
-### [AICatalogue](https://github.com/Xild076/AICatalogue)
-A curated collection of AI algorithms, designed to be simple and accessible for learning and practical use. Perfect for those who want to understand and experiment with foundational AI models.
-
-- **Language**: Python  
-- **Key Features**: Educational AI Algorithms, Beginner-Friendly  
 
 ---
 
