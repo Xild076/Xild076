@@ -7,7 +7,7 @@
 
 ## Projects
 
-### [ETSA-QC]([https://github.com/Xild076/LSDAI](https://github.com/Xild076/ETSA--QC-))
+### [ETSA-QC](https://github.com/Xild076/LSDAI](https://github.com/Xild076/ETSA--QC-)
 A research project aiming to create a modular glass-box aspect-based sentiment analysis model with new, novel insights on sentiment calculus.
 
 - **Language**: Python  
