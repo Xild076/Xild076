@@ -7,8 +7,8 @@
 
 ## Projects
 
-### [ETSA-QC](https://github.com/Xild076/LSDAI](https://github.com/Xild076/ETSA--QC-)
-A research project aiming to create a modular glass-box aspect-based sentiment analysis model with new, novel insights on sentiment calculus.
+### [ETSA-QC](https://github.com/Xild076/ETSA--QC-)
+A research project aiming to create a modular glass-box aspect-based sentiment analysis model with new, novel insights on sentiment calculus with derived mathematical equations describing sentiment shifts. Currently collecting data: https://etsa-survey.streamlit.app/; and writing a paper for publishing!
 
 - **Language**: Python  
 - **Key Features**: Natural Language Processing, Sentiment Analysis, Data Analysis
@@ -16,10 +16,10 @@ A research project aiming to create a modular glass-box aspect-based sentiment a
 ---
 
 ### [ObjectiveNews](https://github.com/Xild076/ObjectiveNews)
-A project aimed at making news more objective by leveraging AI-driven analysis tools. It includes features for extracting, analyzing, and presenting unbiased news content.
+A project aimed at making news more objective by leveraging AI-driven analysis tools. It provides an efficient, end-to-end platform that collects news articles, groups key points of interest, summarizes the information, performs rule-based objectification of the information, and finally calculates the reliability score of the data based on an updated database of source accuracy.
 
 - **Language**: Python  
-- **Key Features**: Natural Language Processing, Sentiment Analysis
+- **Key Features**: Natural Language Processing, Sentiment Analysis, Rule-based Objectification
 
 ---
 
@@ -27,7 +27,7 @@ A project aimed at making news more objective by leveraging AI-driven analysis t
 A systemic agentic AI that utilizes Gemma 27B to simulate "thinking", including planning, criticizing, refining, responding, evaluating, and fixing queries to derive a more coherent output for LLMs.
 
 - **Language**: Python  
-- **Key Features**: Speech Processing, Audio Analysis  
+- **Key Features**: LLMs, Prompt Engineering, Agentic AI
 
 ---
 
@@ -43,7 +43,7 @@ This project focuses on predicting stock prices using advanced machine learning 
 A speech and diction analysis tool that utilizes multiple machine learning models to extract and analyze key insights from audio data.
 
 - **Language**: Python  
-- **Key Features**: Speech Processing, Audio Analysis  
+- **Key Features**: Speech Processing, Audio Analysis, LLM Feedback
 
 ---
 
