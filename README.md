@@ -23,7 +23,7 @@ A project aimed at making news more objective by leveraging AI-driven analysis t
 
 ---
 
-### [Thinking Without Thinking]([https://github.com/Xild076/LSDAI](https://github.com/Xild076/ThinkingWithoutThinking))
+### [Thinking Without Thinking](https://github.com/Xild076/ThinkingWithoutThinking)
 A systemic agentic AI that utilizes Gemma 27B to simulate "thinking", including planning, criticizing, refining, responding, evaluating, and fixing queries to derive a more coherent output for LLMs.
 
 - **Language**: Python  
